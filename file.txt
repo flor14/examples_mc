@@ -5,4 +5,7 @@ subtitle
 This is the first line
 This is the second line
 This is a local change
-This is a remote change
+This is a remote change  
+
+
+This is now the last line
